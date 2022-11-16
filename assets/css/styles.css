@@ -1,0 +1,29 @@
+h4 {
+    text-align: center;
+    color: rgb(107, 128, 177)
+}
+h1 {
+    color:rgb(107, 128, 177)
+}
+
+h2 {
+    color:rgb(107, 128, 177)
+}
+
+
+th, td {
+    padding: 18px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+tr:hover {background-color: rgb(80, 173, 255);}
+  
+     
+table {
+    border: 0px solid;
+    margin: 0px auto;
+  }
+
